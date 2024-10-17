@@ -1,10 +1,9 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Moh Nurfitriyan**.<br>
- 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/moh-nurfitriyan-74b569312)ku ya.
+# 💫 About Me:
+I’m Passionate Game Developer from Indonesia (still learning :>)<br>🌱 currently learning kotlin, C#, and Game Design
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-nurfitriyan-74b569312/) 
  
 ### Github Statistic
 <p align="left">
