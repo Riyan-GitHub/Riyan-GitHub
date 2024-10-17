@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a3/22/41/a3224124ee48cddde865ecff61c13fde.gif)]
+![MasterHead](https://i.pinimg.com/originals/a3/22/41/a3224124ee48cddde865ecff61c13fde.gif)
 
 <h1 align="center">Hi 👋, I'm Moh Nurfitriyan</h1>
 <h3 align="center">a beginner programmer who is living life 😁😁😁</h3>
