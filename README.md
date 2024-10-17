@@ -12,3 +12,6 @@ I’m Passionate Game Developer from Indonesia (still learning :>)<br>🌱 curre
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hasan1194&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
